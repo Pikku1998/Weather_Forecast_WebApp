@@ -1,3 +1,5 @@
-# Project Description
+# Description
 
-## To build an interactive weather forecast web app using streamlit
+### An Interactive weather forecast web app built using streamlit
+### Visualizes the weather forecast for the next five days of any city.
+### fetches data from openweather API and presents on website as a line plot.
